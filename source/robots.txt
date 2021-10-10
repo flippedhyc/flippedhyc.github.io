@@ -1,4 +1,4 @@
-User-agent: *
+User-agent: flippedhyc
 Allow: /
 Allow: /home/
 Allow: /archives/
@@ -9,6 +9,6 @@ Disallow: /css/
 Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
-Sitemap: https://xxxxx.cn/sitemap.xml
+Sitemap: https://flippedhyc.github.io/
 Sitemap: https://xxxxx.cn/baidusitemap.xml
 
