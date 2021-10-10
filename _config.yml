@@ -140,8 +140,8 @@ deploy:
     github: git@github.com:flippedhyc/flippedhyc.github.io.git
     coding: 
     #gitee: 
-    #repo: 
-  branch: master
+    repo: https://github.com/flippedhyc/flippedhyc.github.io
+  branch: gh-pages
 - type: baidu_url_submitter
   live2d:
   enable: true
