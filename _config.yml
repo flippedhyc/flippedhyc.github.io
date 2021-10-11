@@ -134,10 +134,14 @@ theme: matery
 ## Docs: https://hexo.io/docs/deployment.html
 
 deploy:
-  type: git
-  repo: https://github.com/flippedhyc/flippedhyc.github.io
-  # example, https://github.com/hexojs/hexojs.github.io
-  branch: gh-pages
+
+- type: git
+  repository:
+    github: git@github.com:flippedhyc/flippedhyc.github.io.git
+    coding: 
+    #gitee: 
+    #repo: 
+  branch: master
 - type: baidu_url_submitter
   live2d:
   enable: true
