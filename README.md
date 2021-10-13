@@ -1,6 +1,6 @@
 # Hi！i'm flippedhyc.
 
-👉 About me（关于我）：a student from UESTC（电子科技大学）    | Software Engineering（软件工程）
+👉 About me（关于我）：student | UESTC（电子科技大学)  | Software Engineering（软件工程）
 
 🌱 Studing（正在学习）：C/Linux
 
