@@ -17,6 +17,6 @@ language: zh-CN
 
 📫 E-mail（邮箱）：1078650866@qq.com
 
-❤️ Interest（爱好）：Game、Foottball、Coding...
+❤️ Interest（爱好）：Game(游戏)、Foottball（足球）、Coding（编程）...
 
 🌍 github：[flippedhyc](https://github.com/flippedhyc)
